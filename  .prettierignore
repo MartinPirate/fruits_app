@@ -1,0 +1,6 @@
+# Ignore artifacts:
+public/build/
+vendor/
+tools/
+var/
+node_modules/
